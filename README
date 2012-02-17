@@ -2,6 +2,7 @@ This is a read me for the command line tool that will download book from
 books.google.com in .jpg format.
 
 How to use:
+Download the jar from build directory.
 To execute the jar directyly from the command-line type (first navigate to the location where the jar file resides)
 java -jar GoogleBooksDownloader.jar "http://books.google.com/...id=sdf?asdfsdf..."  "/location/where/you/want/to/save/your/file/"
 the first parameter is the link to the book that you have copied from your browser and second command line parameter is the 
